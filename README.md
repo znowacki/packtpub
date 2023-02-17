@@ -12,7 +12,8 @@ Installed gems:
  
  Watir is a library to run your browser (the default is Chrome, with usage of Chromecast driver).
  More information you can find on project page.
- Chromecast needs to be on your path before, howether one can just set it as current dir:
+ Chromecast needs to be on your path before, howether one can just set it as current dir in some run.cmd script:
+  
   set PATH=.\;%PATH%
  
  To get proper Chromecast version, visit https://chromedriver.chromium.org/downloads
