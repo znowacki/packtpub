@@ -33,7 +33,7 @@ Installed gems:
  
  Script shall be started with parameters: user-email and password as registered in PackPub.
  
- jruby -W0 packt.rb <your packtpub user-email> <your password>
+ jruby -W0 packt.rb \<your packtpub user-email> \<your password>
  
  # Issues
  
